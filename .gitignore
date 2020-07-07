@@ -1,4 +1,4 @@
-db.sqlite3
-.vscode/launch.json
-.vscode/settings.json
+/.pytest_cache
+/.vscode
+/db.sqlite3
 __pycache__/
